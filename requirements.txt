@@ -1,0 +1,8 @@
+Flask==2.3.2
+python-dotenv==1.0.0
+requests~=2.32.3
+protobuf~=5.29.0
+uvicorn~=0.32.1
+fastapi~=0.115.5
+pydantic~=2.10.2
+Flask-Cors~=5.0.0
